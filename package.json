@@ -1,0 +1,21 @@
+{
+  "name": "sass-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuayc/sass-try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuayc/sass-try/issues"
+  },
+  "homepage": "https://github.com/kuayc/sass-try#readme"
+}
